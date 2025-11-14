@@ -16,14 +16,6 @@ Husky Dev Club is a community of students passionate about building, learning, a
 - **Hackathons & Events** 🎉 – Participate in hackathons, workshops, and tech talks to level up your skills.  
 - **Collaborative Learning** 📚 – Learn from peers, share knowledge, and build a strong portfolio.  
 
-## 👥 Join Us  
-
-🚀 **Want to be part of Husky Dev Club?**  
-We welcome **all UW students**, regardless of experience level! Whether you're a beginner or a pro, we believe in learning by doing.  
-
-👉 **[Follow us on GitHub](https://github.com/HuskyDevClub)**  
-👉 **[Reach out to us](#)** (email or contact info)  
-
 ## 🚀 Get Involved  
 
 ### 1️⃣ Explore Our Projects  
